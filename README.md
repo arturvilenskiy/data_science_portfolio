@@ -9,3 +9,5 @@ Collection of data science projects to accompany my learning!
 ## Machine Learning
 
 [Classification: Titanic Dataset](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/titanic_model.ipynb): A model to predict whether certain passengers of Titanic survived or not. Project includes data cleanup, feature engineering, data preprocessing, K-Fold cross validation to choose the best model, and hyperparameter optimization. Tools used: Pandas, Numpy, Pipeline, Scikit-Learn, XGBoost, Seaborn, Matplotlib
+
+More to come...
