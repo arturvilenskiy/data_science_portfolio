@@ -1,5 +1,5 @@
 # data_science_portfolio
-Collection of data science projects to showcase my knowledge!
+Collection of data science projects to accompany my learning!
 
 ## Data Analysis and Visualisations
 
