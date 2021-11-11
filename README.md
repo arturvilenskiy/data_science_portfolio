@@ -10,4 +10,6 @@ Collection of data science projects to accompany my learning!
 
 [Classification: Titanic Dataset](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/titanic_model.ipynb): A model to predict whether certain passengers of Titanic survived or not. Project includes data cleanup, feature engineering, data preprocessing, K-Fold cross validation to choose the best model, and hyperparameter optimization. Tools used: Pandas, Numpy, Pipeline, Scikit-Learn, XGBoost, Seaborn, Matplotlib
 
-More to come...
+## Mini Projects
+
+[Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini projects to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori. 
