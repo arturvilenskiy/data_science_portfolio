@@ -12,4 +12,6 @@ Collection of data science projects to accompany my learning!
 
 ## Mini Projects
 
-[Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini projects to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori. 
+[Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini project to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori. 
+
+[Classification: Bank Marketing](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/bank_marketing_logistic.ipynb): A model that predicts whether a customer would subscribe to a bank offering given some of its personal information. The projects include small EDA, data preprocessing, under sampling, ROC curve, and hyperparameter optimization. Tools used: Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib, Imblearn, GridSearchCV, Logistic Regression. 
