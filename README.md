@@ -3,7 +3,9 @@ Collection of data science projects to accompany my learning!
 
 ## Data Analysis and Visualisations
 
-[Titanic Dataset - Exploratory Analysis](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/titanic_exploratory.ipynb): Exploratory Analysis of the famouse Titanic dataset from Kaggle. Tools used: Pandas, Numpy, Matplotlib, and Seaborn.
+[Exploratory Analysis: Titanic Dataset](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/titanic_exploratory.ipynb): Exploratory Analysis of the famouse Titanic dataset from Kaggle. Tools used: Pandas, Numpy, Matplotlib, and Seaborn.
+
+[Data Visualisation: Marketing Dataset](https://public.tableau.com/app/profile/artur.vilenskiy/viz/MarketingDataset-Part1CustomerSegmentation/Dashboard1): Created customer segmentation dashboard to better visualise different characteristics of the customers from marketing dataset from Kaggle. Tools used: Tableau Public.
 
 
 ## Machine Learning
