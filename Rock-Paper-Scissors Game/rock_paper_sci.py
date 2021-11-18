@@ -1,6 +1,5 @@
 import cv2
 from player import Player
-import time
 from cvzone.HandTrackingModule import HandDetector
 
 def game(hands, gesture1, gesture2, player1, player2):
