@@ -14,7 +14,7 @@ Collection of data science projects to accompany my learning!
 
 ## Mini Projects
 
-[Computer Vision: Rock-Paper-Scissors](https://github.com/arturvilenskiy/data_science_portfolio/tree/main/Rock-Paper-Scissors%20Game): A simple script that uses camera feed to detect hand gestures(rock, paper, scissors) and calculate the score if two people are playing the game. Tools used: Cvzone, CV2, OpenCV, OOP.
+[Computer Vision: Rock-Paper-Scissors](https://github.com/arturvilenskiy/data_science_portfolio/tree/main/Rock-Paper-Scissors%20Game): A program that uses camera feed to detect hand gestures(rock, paper, scissors) and calculate the score if two people are playing the game. Tools used: Cvzone, CV2, OpenCV, OOP.
 
 [Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini project to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori. 
 
