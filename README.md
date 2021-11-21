@@ -1,4 +1,4 @@
-# data_science_portfolio
+# Data Science Portfolio
 Collection of data science projects to accompany my learning!
 
 ## Data Analysis and Visualisations
@@ -10,12 +10,18 @@ Collection of data science projects to accompany my learning!
 
 ## Machine Learning
 
+### Classification
+
 [Classification: Titanic Dataset](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/titanic_model.ipynb): A model to predict whether certain passengers of Titanic survived or not. Project includes data cleanup, feature engineering, data preprocessing, K-Fold cross validation to choose the best model, and hyperparameter optimization. Tools used: Pandas, Numpy, Pipeline, Scikit-Learn, XGBoost, Seaborn, Matplotlib
 
-## Mini Projects
+[Classification: Bank Marketing](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/bank_marketing_logistic.ipynb): A model that predicts whether a customer would subscribe to a bank offering given some of its personal information. The projects include small EDA, data preprocessing, under sampling, ROC curve, and hyperparameter optimization. Tools used: Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib, Imblearn, GridSearchCV, Logistic Regression. 
+
+### Computer Vision
 
 [Computer Vision: Rock-Paper-Scissors](https://github.com/arturvilenskiy/data_science_portfolio/tree/main/Rock-Paper-Scissors%20Game): A program that uses camera feed to detect hand gestures(rock, paper, scissors) and calculate the score if two people are playing the game. Tools used: Cvzone, CV2, OpenCV, OOP.
 
-[Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini project to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori. 
+[Computer Vision: Drag and Drop](https://github.com/arturvilenskiy/data_science_portfolio/tree/main/drag_and_drop): A program that uses camera feed to detect hand movement and allows to move object around when pinched with a thumb and an index finger. Tools used: Cvzone, Mediapipe, CV2, OpenCV. 
 
-[Classification: Bank Marketing](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/bank_marketing_logistic.ipynb): A model that predicts whether a customer would subscribe to a bank offering given some of its personal information. The projects include small EDA, data preprocessing, under sampling, ROC curve, and hyperparameter optimization. Tools used: Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib, Imblearn, GridSearchCV, Logistic Regression. 
+### Association Rule Learning
+
+[Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini project to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori. 
