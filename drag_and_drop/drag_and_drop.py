@@ -5,7 +5,6 @@ from cvzone.HandTrackingModule import HandDetector
 def pinch(lmList):
     thumb_tip = lmList[4]
     index_tip = lmList[8]
-
     if thumb_tip[0] in range(index_tip[0]-10, index_tip[0]+10):
         return True
     if thumb_tip[1] in range(index_tip[1]-20, index_tip[1]+20):
@@ -50,7 +49,7 @@ def intersection_percentage(figure_location, destination_location):
         occupied_area = (destination_location[1][0] - figure_location[0][0]) * (figure_location[1][1] - destination_location[0][1])
     else:
         return 0
-    return occupied_area/destination_area*100
+    return int(occupied_area/destination_area*100)
 
 def create_figures():
     width = 1290
@@ -65,6 +64,7 @@ def create_figures():
     if dest_y in range(fig_y, fig_y + 200):
         dest_y = random.randint(5, 520)
     return [(fig_x, fig_y), (fig_x + 200, fig_y + 200)], [(dest_x, dest_y), (dest_x + 200, dest_y + 200)]
+
 
 def main():
     cap = cv2.VideoCapture(0)
