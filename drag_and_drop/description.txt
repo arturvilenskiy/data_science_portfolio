@@ -1,0 +1,15 @@
+Overview:
+This Python program uses camera to record a hand movement a detect a pinching gesture with a thumb and an index finger. The program also draws a colored rectangle and a "destination" transparent rectangle. Colored rectangle is movable if pinching gesture is detected within it. If colored rectangle is moved onto a transparenbt one, the intersection area would be calculated and displayed as the percentage of the occupied area. 
+
+Dependencies:
+Following libraries need to be installed before running drag_and_drop.py:
+    - numpy
+    - matplotlib
+    - mediapipe
+    - cvzone
+    - cv2 (part of OpenCV)
+
+How to run:
+Make sure the latest version of Python is installed as well as the dependencies above. The run the following command in the terminal:
+    python drag_and_drop.py 
+

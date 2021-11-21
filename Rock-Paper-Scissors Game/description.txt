@@ -1,0 +1,22 @@
+Overview:
+This Python program uses camera to detect hands and in particular if the hands gesture corresponds to rock, paper or scissors. For the simplicity, any hand gesture other than rock or paper is classified as scissors to increase accuracy.
+The program also is capable of scoring the game of rock-paper-scissors if two hands are presented. 
+
+In order for it to score correctly, there are several rules to follow.
+1. Inside of the hands should be facing towards the camera. This is not necessary, yet it increases accuracy. 
+2. To start a new round, both hands need to be removed from the view of the camera, and then show hands again.
+3. When showing hands, do not change the gesture. Gesture should only be changed of camera. 
+4. To increase accuracy try to have hands parallel to a camera. 
+
+
+Dependencies:
+Following libraries need to be installed before running rock-paper-sci.py:
+    - numpy
+    - matplotlib
+    - mediapipe
+    - cvzone
+    - cv2 (part of OpenCV)
+
+How to run:
+Make sure the latest version of Python is installed as well as the dependencies above. The run the following command in the terminal:
+    python rock-paper-sci.py
