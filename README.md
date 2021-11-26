@@ -24,4 +24,8 @@ Collection of data science projects to accompany my learning!
 
 ### Association Rule Learning
 
-[Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini project to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori. 
+[Association Rule Learning: Grocery Store](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/grocery_store_apriori.ipynb): Mini project to analyse large dataset of transactions in a store to find most common items that are frequently bought together. Tools used: Numpy, Pandas, Apyori.
+
+### Natural Language Processing
+
+[Natural Language Processing: Marvel's Rotten Tomatoes Reviews](https://github.com/arturvilenskiy/data_science_portfolio/blob/main/rotten_tomatoes_reviews.ipynb): Created a model that predicts whether a review is positive(fresh) or negative(rotten). Projects includes advanced web scraping, short EDA, bag-of-words model, classification model selection and implementation. Tools used: Pandas, Numpy, Scikit-Learn, Seaborn, Imblearn, Beautiful Soup, Selenium.
